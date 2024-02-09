@@ -11,7 +11,7 @@ As a structural engineer with a growing interest in software engineering, I emba
 - Real-time calculations and graphical representation of deflection
 
 ## Getting Started
-To explore the Interactive Beam Web App just go to the following [link]()
+To explore the Interactive Beam Web App just go to the following [link](https://rupanzil.github.io/interactive-beam/)
 and adjust the beam parameters using the interactive controls to visualize deflection.
 
 ## License
