@@ -1,4 +1,4 @@
-# Simply Supported Beam Deflection Web App
+# Interactive Beam Web App
 
 Welcome to the Interactive Beam App repository! This project showcases a simple web application developed as part of my journey into web development.
 
