@@ -1,0 +1,84 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    /* padding: 25px; */
+    /* background-color: rgb(60, 60, 60); */
+    /* max-width: 1000px; */
+    margin: auto;
+    border-radius: 30px;
+    /* box-shadow: 10px 10px 5px lightblue; */
+
+}
+
+body {
+    background-color: #101111e1;
+    color: antiquewhite;
+}
+
+h1 {
+    padding: 0;
+    /* background-color: rgb(60, 60, 60); */
+    max-width: 1000px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Noto Serif', serif;
+}
+
+.p5Canvas {
+    padding: 0 0 0 0;
+    background-color: rgb(60, 60, 60);
+    border-radius: 25px 0 0 25px;
+}
+
+.sliders {
+    display: flex;
+    flex-direction: column;
+    padding-right: 25px;
+    border-radius: 0 25px 25px 0;
+    justify-content: center;
+    background-color: rgb(60, 60, 60);
+    width: 200px;
+}
+
+.slider {
+    width: 200px;
+    margin: 0;
+}
+
+.slider {
+    /* margin-bottom: 5px; */
+    margin-top: 25px;
+    padding-bottom: 0;
+}
+
+p {
+    /* margin-bottom: 10px; */
+    color: white;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction:row ;
+    /* border: solid 1px black; */
+    margin: 0;
+}
+
+.footer-section {
+    font-family: 'Noto Serif', serif;
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    margin: auto;
+    /* border: solid 1px black; */
+    justify-content: space-between;
+    align-items: center;
+    max-width: 730px;
+}
+
+.signature {
+    /* border: solid 1px black; */
+}
